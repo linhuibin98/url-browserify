@@ -1,9 +1,9 @@
-# url-pkg
+# url-browserify
 
 This module has utilities for URL resolution and parsing meant to have feature parity with node.js core [url](http://nodejs.org/api/url.html) module.
 
 ```js
-var url = require('url-pkg');
+var url = require('url-browserify');
 ```
 
 ## api
