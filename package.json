@@ -1,7 +1,7 @@
 {
   "name": "url-pkg",
   "description": "The core `url` packaged standalone for use with Browserify.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "dependencies": {
     "punycode": "^1.4.1",
     "qs": "^6.12.3"
